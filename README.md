@@ -8,18 +8,18 @@ Same curiosity. Sharper tools.
 
 ## What I Work With
 
-Python · SQL · R · scikit-learn · pandas · NumPy · Power BI · Tableau · MySQL · Azure · Git
+Python · SQL · R · scikit-learn · pandas · NumPy · Power BI · Tableau · MySQL · Git
 
 ## Featured Projects
 
-🔬 **ML Compliance Pipeline** — Red Cross Lifeblood
-Reduced compliance review from days to seconds. Addressed an estimated $8M productivity gap.
-
 🎬 **Movie Recommender System** — Collaborative Filtering
-Five KNN-based CF algorithms compared on MovieLens 100K. Evaluated on MAE and RMSE.
+Five KNN-based collaborative filtering algorithms compared on MovieLens 100K. Built from scratch — no libraries. Evaluated on MAE and RMSE.
 
-🛒 **Retail Customer Segmentation** — RFM + K-Means
-Segmented customers by behaviour to surface loyalty and retention insights.
+🧠 **Mental Health Prediction** — ML Classification
+Five classifiers compared on 2,978 physiological and demographic records. Logistic Regression and SVM achieved 72.6% accuracy with ANOVA-based feature selection.
+
+🔍 **NSW Crime Analytics** — R & Data Wrangling
+Two open government datasets merged and preprocessed in R. Reshaped 220+ monthly columns into 2M+ rows. Full pipeline: tidying, outlier handling, and log transformation.
 
 ## Let's Connect
 
