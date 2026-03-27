@@ -1,16 +1,28 @@
-## Hi there 👋
+# Shweta Adgaonkar
 
-<!--
-**shwetaadgaonkar6-ux/shwetaadgaonkar6-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to study how electricity flows through wires.
+Now I study how decisions flow through organisations.
+Same curiosity. Sharper tools.
 
-Here are some ideas to get you started:
+📍 Melbourne · Master of Data Science, RMIT · Full working rights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+
+Python · SQL · R · scikit-learn · pandas · NumPy · Power BI · Tableau · MySQL · Azure · Git
+
+## Featured Projects
+
+🔬 **ML Compliance Pipeline** — Red Cross Lifeblood
+Reduced compliance review from days to seconds. Addressed an estimated $8M productivity gap.
+
+🎬 **Movie Recommender System** — Collaborative Filtering
+Five KNN-based CF algorithms compared on MovieLens 100K. Evaluated on MAE and RMSE.
+
+🛒 **Retail Customer Segmentation** — RFM + K-Means
+Segmented customers by behaviour to surface loyalty and retention insights.
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shweta-adgaonkar-b852a6223/)
+
+* Open to graduate Data Science opportunities in Melbourne.*
