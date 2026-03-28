@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="banner.png" alt="Shweta Adgaonkar" width="100%"/>
-</div>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58a6ff&height=200&section=header&text=Shweta%20Adgaonkar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Scientist%20%7C%20Melbourne%2C%20AU&descAlignY=55&descColor=8b949e" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shweta+Adgaonkar+%F0%9F%91%8B;Data+Scientist+%7C+Melbourne%2C+AU;Python+%C2%B7+SQL+%C2%B7+Machine+Learning;Turning+data+into+decisions+that+matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shweta+Adgaonkar+%F0%9F%91%8B;Data+Scientist+%7C+Melbourne%2C+AU;Python+%C2%B7+SQL+%C2%B7+Machine+Learning;Turning+data+into+decisions+that+matter" alt="Typing SVG" />
 </div>
 
 <br>
@@ -110,6 +106,10 @@
 
 *🌏 Open to graduate Data Science opportunities in Melbourne*
 
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=shwetaadgaonkar6-ux&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0D1117&height=100&section=footer" width="100%"/>
