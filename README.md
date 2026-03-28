@@ -1,14 +1,22 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shweta+Adgaonkar+%F0%9F%91%8B;Data+Scientist+%7C+Melbourne%2C+AU;Python+%C2%B7+SQL+%C2%B7+Machine+Learning;Turning+data+into+decisions+that+matter" alt="Typing SVG" />
+  <img src="banner.png" alt="Shweta Adgaonkar" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Shweta+Adgaonkar+%F0%9F%91%8B;Data+Scientist+%7C+Melbourne%2C+AU;Python+%C2%B7+SQL+%C2%B7+Machine+Learning;Turning+data+into+decisions+that+matter" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
 
-*I used to study how electricity flows through wires.*
-*Now I study how decisions flow through organisations.*
+*I used to study how electricity flows through wires.*<br>
+*Now I study how decisions flow through organisations.*<br>
 **Same curiosity. Sharper tools.**
+
+<br>
 
 📍 Melbourne, Australia &nbsp;·&nbsp; 🎓 Master of Data Science, RMIT &nbsp;·&nbsp; ✅ Full working rights
 
@@ -31,13 +39,14 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
 
 **BI & Visualisation**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Cloud**
 
@@ -45,6 +54,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -65,6 +75,16 @@
 
 ---
 
+## 💼 Experience Timeline
+```
+🔬  Data Science Intern     →  Australian Red Cross Lifeblood   (Jul–Dec 2025)
+💼  Data Analyst            →  Yash Technologies                (Aug 2021–Jan 2024)
+🎓  Master of Data Science  →  RMIT University, Melbourne       (Mar 2024–Dec 2025)
+🎓  B.Tech Electrical Eng   →  Sandip University, India         (Jun 2017–Nov 2020)
+```
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -75,15 +95,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shwetaadgaonkar6-ux&theme=tokyonight&hide_border=true" height="150"/>
 </div>
-
----
-
-## 🏆 Experience Highlights
-```
-🔬 Data Science Intern    →  Australian Red Cross Lifeblood   (Jul–Dec 2025)
-💼 Data Analyst           →  Yash Technologies                (Aug 2021–Jan 2024)
-🎓 Master of Data Science →  RMIT University, Melbourne       (Mar 2024–Dec 2025)
-```
 
 ---
 
@@ -99,6 +110,6 @@
 
 *🌏 Open to graduate Data Science opportunities in Melbourne*
 
-![Profile Views](https://komarev.com/ghpvc/?username=shwetaadgaonkar6-ux&color=3776AB&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shwetaadgaonkar6-ux&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
